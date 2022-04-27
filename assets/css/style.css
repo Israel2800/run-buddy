@@ -165,6 +165,11 @@ section {
   justify-content: space-between;
 }
 
+.step-img {
+  flex: 1 12%;
+  margin-right: 20px;
+}
+
 .step h3 {
   color: #024e76;
   font-size: 46px;
@@ -175,9 +180,17 @@ section {
   flex: 2 70%;
 }
 
+.step-text {
+  flex: 12;
+}
+
+.step-img img {
+  max-width: 100%;
+}
+
 .step-text p {
   color: #39a6b2;
-  font-size: 18px;
+  font-size: 23px;
 }
 
 .step-text h4 {
