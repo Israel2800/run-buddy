@@ -10,6 +10,9 @@ A website that offers fitness training services.
 ## Website
 https://israel2800.github.io/run-buddy/
 
+## GitHub
+https://github.com/Israel2800/run-buddy
+
 ## Contribution
 Made with ❤️ by [Israel Aguilar]
 
